@@ -9,6 +9,7 @@ categories:
 date: 2020-01-30 22:16
 top: 1121
 ---
+
 <font size=4>
 
 关于OpenWrt固件的升级，在虚拟机中，笔者一直倾向于使用rootfs-combined-ext4来刷写升级，然后，在另外的虚拟机系统中扩展OpenWrt 根分区容量。
@@ -33,11 +34,11 @@ top: 1121
 
 ***
 
-<font size=9>
+<font size=4>
 
 # 基于Debian 10环境的OpenWrt镜像刷写脚本
-[脚本仓库地址](https://github.com/6donote4/OpenWrt-Debian-Grub)
 
+[脚本仓库地址](https://github.com/6donote4/OpenWrt-Debian-Grub)
 使用虚拟机搭建软路由者可略过本文档说明，使用本人仓库中的脚本反而更加复杂。
 
 ## 什么样的情况需要使用本脚本 ?
@@ -104,13 +105,13 @@ top: 1121
         ```
 
 ### 带UI脚本，基于dialog
-
   执行  `./openwrt_grub_config.sh`
 
 ## 操作动画:
 <img width="600" src="/pictures/Peek2020-1-30.gif">
 <img width="600" src="/pictures/Peek2020-02-03-23-33.gif">
 </font>
+
 ***
 
 

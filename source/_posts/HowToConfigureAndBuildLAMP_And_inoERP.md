@@ -40,7 +40,9 @@ bash configure_env_for_inoERP.sh -c
 ```
 
 安装完成之后，系统就已经自动配置好了LAMP环境,并且配置了Webmin管理面板,inoERP安装文件也在web根目录中。
+
 2. 打开浏览器，在地址栏输入部署了LAMP的服务器其ip地址及webmin端口:10000,笔者的地址为: `https://192.168.2.20:10000`;登录账号为root账号，密码为root账号的密码。
+
 3. 配置MySQL数据库 
   -  在webmin页面下,找到MySQL Database Server页面，点击Create Database,在Database输入数据库名称，点Create,返回Database list。
 <img width="600" src="/pictures/Screenshot_20190825-130929_Firefox.jpg">
@@ -54,16 +56,20 @@ bash configure_env_for_inoERP.sh -c
   -  变更MySQL Server监听地址,点击MySQL Sserver Configuration,将MySQL server listening address 选中any后Save and Restart MySQL。
 <img width="600" src="/pictures/Screenshot_20190825-130929_Firefox.jpg">
 <img width="600" src="/pictures/Screenshot_20190825-131156_Firefox.jpg">
+
 4. 安装,部署inoERP系统
 在浏览器地址栏输入服务器IP地址不需要带端口号。笔者的地址为: `http://192.168.2.20` ,浏览器会跳转到inoERP安装页面,点击Continue,Database Type选择MySQL/MariaDB;Database Host为服务器IP地址，Database Port为3306, 数据库名称及用户名均使用第3步配置的名称。填完后，点击Save and proceed。
 经过一段时间之后，系统便会自动安装完成，完成后，刷新页面，点击右上角的login按钮,使用admin/admin或inoerp/inoerp,并选择好语言，按login就可登陆到ERP系统
+
 <img width="600" src="/pictures/Screenshot_20190825-143219_VNC Viewer.jpg">
 <img width="600" src="/pictures/Screenshot_20190825-143259_VNC Viewer.jpg">
 <img width="600" src="/pictures/Screenshot_20190825-130414_VNC Viewer.jpg">
 <img width="600" src="/pictures/Screenshot_20190825-131513_VNC Viewer.jpg">
 <img width="600" src="/pictures/Screenshot_20190825-143450_VNC Viewer.jpg">
+
 5. 在ERP系统内,修改管理员账号密码，创建新的用户名,并配置好权限，ERP系统就可以正式上线啦！
 <img width="600" src="/pictures/Screenshot_20190825-131652_VNC Viewer.jpg">
+
 6. 变更数据库字符集以支持中文字符
   ```sh
   mysql
@@ -75,7 +81,8 @@ bash configure_env_for_inoERP.sh -c
   use 数据库名称
   粘贴编辑好的命令
   ```
-  == 补充 ==
+  
+### 补充 
   因inoERP开发团队已不再维护代码，且该系统缺乏说明文档，故弃掉inoERP.转向dolibarr.
   部署代码
   ```sh
@@ -84,4 +91,5 @@ bash configure_env_for_inoERP.sh -c
   bash configure_env_for_dolibarr.sh -c
   ```
  </font>
+
  ***     

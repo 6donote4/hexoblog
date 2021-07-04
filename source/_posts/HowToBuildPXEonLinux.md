@@ -14,11 +14,14 @@ top: 1120
 翻墙后，即可评论博文
 PXE是一种可以提供网络引导启动的服务，主要用于通过网络硬盘启动计算机，即被启动的计算机内部没有硬盘，类似于网吧的运用情形。集群式的虚拟机安装操作系统的运用场景也适用（不过，一般只要安装创建了一个虚拟机之后，只要复制虚拟机就可以了，运用PXE，个人认为比较吃力费事），因笔者非专业人士，仅仅是好奇瞎折腾，在以往使用计算机的经验中，计算机启动进入操作系统的引导界面中，常常会出现网络引导的选项。笔者使用过光盘、U盘引导进入系统，现在开始试试网络引导，目前网络引导只尝试成功引导启动Linux系统网络安装镜像.
 </font>
+
 <!--more-->
+
 <audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/huimengyouxian.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/lovelovelove.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/qianban.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/wish.mp3"> </audio>
+
 ***
 
 通过互联网检索资料，PXE网络引导服务的搭建需要两种服务的服务的配合，DHCP服务负责分配网络地址，并且DHCP通过配置能够识别网络引导请求，并通过文件传输服务，如tftp,nfs网络文件传输协议，来分发操作系统内核及启动文件。
@@ -33,7 +36,7 @@ PXE是一种可以提供网络引导启动的服务，主要用于通过网络�
 
 若提供网络引导的服务器，硬盘空间太小，比如Openwrt软路由系统，则配置前需要在另一台硬件配置较好的主机上提供nfs服务，该部分配置没在脚本中体现，所以使用前需将操作系统文件使用nfs共享出来,`vim /etc/exports`,编辑exports文件，添加共享文件路径，并附加访问权限。
 
-==搭建步骤==
+## 搭建步骤 
 
 1. `bash pxec.sh -i`,执行该代码，进行搭建的初始化工作，该过程会提示输入提供nfs服务的主机地址和共享文件路径，如果网络引导服务器性能够强，则这两个参数可以任意填,并无视出错信息。
 
@@ -43,7 +46,7 @@ PXE是一种可以提供网络引导启动的服务，主要用于通过网络�
 
 4. `bash pxe.sh -d`,执行该代码配置dnsmasq，及dhcp服务
 
-==相关截图与网络引导启动的效果==
+## 相关截图与网络引导启动的效果
 
 初始化
 <img width="600" src="/pictures/pxe/IMG_0011.JPG">

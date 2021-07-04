@@ -7,42 +7,45 @@ top: 1001
 ---
 
 
-**从QQ空间说说搬运过来的日常感想 **
+ 从QQ空间说说搬运过来的日常感想 
 <font size=4>
 翻墙后，可评论博文。
 </font>
 
 <!--more-->
 
-<audio 
-controls="controls" name="media" style='width:264px' autoplay loop=true> 
-<source src="/musics/wish.mp3">
-</audio>
+<audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/wish.mp3"> </audio>
 
-
-** *
+***
 
 <font size=4>
 June 15, 2017 12:11 AM
 一日千里，中國貪腐官員的荒淫尺度遠超民眾之想象，這是性資源的壟斷，要求民眾禁慾，那些冠冕堂皇的政客卻荒淫無度。
 </font>
 
-* * *
+
+***
+
 
 <font size=4>
 June 15, 2017 12:12 AM
 美國要打金三胖了，這次應該沒人願意當炮灰援朝吧？朝鮮半島快要統一了。
+
 ![美国打朝鲜](/pictures/usvsnk.jpg)
 </font>
 
-* * *
+
+***
+
 
 <font size=4>
 June 15, 2017 12:58 AM
 关于雄安新区，那些在北京买了学区房的人会有什么想法？
 </font>
 
-* * *
+
+***
+
 
 <font size=4>
 June 15, 2017 12:59 AM
@@ -50,7 +53,9 @@ June 15, 2017 12:59 AM
 </font>
 
 
-* * *
+
+***
+
 
 <font size=4>
 June 15, 2017 1:01 AM
@@ -113,41 +118,45 @@ n4rKqUfisvgmilPiyjsHzwDKPQ==
 </font>
 
 
-* * *
+
+***
+
 
 <font size=4>
 June 15, 2017 1:23 AM
 关于在天朝组建个人网站的看法，应当明白的是天朝是一个信息受严格管控和审查的社会，所以，虽然树莓派也能作服务器，但是天朝的网络是不会让可分享型的私人服务器存在的，分享意味着信息传播，私人意味着不受控制。所以，宽带用户的IP分配方式是动态的，一个IP可变化的服务器只能自嗨而无法分享、固定IP才具备可操作性和推广性。于是分享型的私有服务器难以生存，个人网站要用私有服务器来建可操作性不大。如果要做，只能向电信运营商申请固定IP（不会同意个人拥有固定IP吧？）要么，向阿里巴巴或腾讯云主机投诚（即用别人的受管控的服务器），要么用国外的云主机（即用别人的却不受官方管控的服务器）。当然，服务器系统首选Linux。要在上面部署Nginx服务，如果要建论坛还需要数据库，还需要HTML网页框架，CSS提供外观布局，JaveScript提供给用户良好的交互体验。
-![GPnuG](/pictures/gpg1.jpg)![GPnuG](/pictures/gpg2.jpg)![GPnuG](/pictures/gpg3.jpg)![GPnuG](/pictures/gpg4.jpg)
+![GPnuG](/pictures/gpg1.jpg)
+![GPnuG](/pictures/gpg2.jpg)
+![GPnuG](/pictures/gpg3.jpg)
+![GPnuG](/pictures/gpg4.jpg)
 </font>
 
 
-* * *
+
+***
+
 
 <font size=4>
 June 15, 2017 1:27 AM
  已成功搭建树莓派下载机，小派正在跑着，要下载340多个文件，大概有200GB的数据吧，跑个三四天之后再来看看下好没，这东西功耗只有4W，10天只用1度电，顶级司机飙车的好工具，如果配上BTsync，那速度简直是狂飙啊。哪天管子要是撸废了就惨了，不管了，先忙去，让小派自己跑。
-![下载机](/pictures/nas1.jpg)![下载机](/pictures/nas2.jpg)
+![下载机](/pictures/nas1.jpg)
+![下载机](/pictures/nas2.jpg)
 </font>
 
 
-* * *
+
+***
+
 
 <font size=4>
 June 15, 2017 1:33 AM
 搞了個樹莓派。。。。有空的時候折騰，目前打算做下載機，全天候下載資源。。。
-![树莓派](/pictures/rasp1.jpg) ![树莓派](/pictures/rasp2.jpg) ![树莓派](/pictures/rasp3.jpg)
+![树莓派](/pictures/rasp1.jpg)
+![树莓派](/pictures/rasp2.jpg)
+![树莓派](/pictures/rasp3.jpg)
 </font>
 
 
-* * *
 
-
-
-
-
-
-
-
-
+***
 

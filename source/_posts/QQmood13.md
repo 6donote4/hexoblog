@@ -13,17 +13,18 @@ top: 1013
 </font>
 <!--more-->
 
-<audio
-controls="controls" name="media" style='width:264px' autoplay loop=true>
-<source src="/musics/lovelovelove.mp3">
-</audio>
+<audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/huimengyouxian.mp3"> </audio>
 
 ***
+
 <font size=4>
 开了个大坑，基于KVM(qemu+virt，及Linux系统内核)的虚拟路由器系统搭建,虚拟路由相比硬件路由功能及性能强大得不止一点点。还有一种方案是基于硬件的虚拟机ESXi，不过这个平台不是开源的，需要版权许可，暂时不折腾了，KVM下的虚拟机路由系统，OpenWRT，V2Ray等等一大堆东西已经够玩了，待调校出一个更加好用的系统，就把它打包 ，提交Github做备份。ESXi以后再研究研究。之前的一个Mini硬件路由性能太差，需重灌固件，单纯做无线AP。
 </font>
+
 ***
+
 <font size=4>
+
 双软路由服务器搭建方案：
 目的：充分利用网络传输速率
 -硬体
@@ -40,8 +41,11 @@ Vsphere Center Client
 ROS（RouterOS,用于拨号，并给所有连接的设备分配ip)
 LEDE(实现无障碍上网，过滤广告，在网络中作为网关存在)
 如果还要在服务器搭建虚拟NAS，那么还需要freenas系统或nas4free
+
 </font>
+
 ***
+
 <font size=4>
 如何使用闲置无线路由扩展WiFi信号？
 两种方法：
@@ -51,41 +55,62 @@ LEDE(实现无障碍上网，过滤广告，在网络中作为网关存在)
 路由器的功能在于变更网段比如从一个ip为192.168.1.1的主路由器的LAN口接到一个次级路由器的WAN口，那么该次级路由经过手动设置ip：192.168.2.1，那么就实现了网段隔离，即次级路由器下连接的设备无法访问连接主路由的设备，比如连接在主路由的文件服务器或者NAS，这可以用作访客网络，实现客人访问时，保障个人隐私。【因此，如果要使用闲置路由作为信号扩展器的话，必须更改路由器的网段，将路由器的默认ip地址192.168.1.1改为192.168.2.1或者192.168.x.1，x为除1以外不超过254的数字，与主路由的连接方式是次级路由WAN接主路由LAN。】
 注：如果家里面的网络布线中配置有交换机（这个要查线路布局图），那么该闲置路由的wan口可以直接连接到墙壁上的网口，如果使用的是交换机模式，则连接路由器的LAN口。
 重点：路由器的功能在于变更网段，交换机的功能在于扩展网口。
+
 </font>
+
 ***
+
 <font size=4>
+
 关于nmap端口扫描工具：使用nmap 45.76.*.* >>report.txt ;可以扫描到45.76ip网段下共65,025台主机的端口开放信息。如果一台服务器开放了80、443端口，那么这台主机上就有可供我们浏览的网页了，但是443端口是证书加密端口，无法使用ip访问，必须使用域名，因为域名与SSL证书绑定了。所以只能使用透明的80端口浏览了。
 </font>
+
 ***
+
 <font size=4>
 bing.com被屏蔽了。。。。。。即便如此，我也不去用垃圾百毒，信噪比奇高，搜索精确率低，劣币驱逐良币。。。。它能存活在于配合审查，以及强权的需要。
 </font>
+
 ***
+
 <font size=4>
 
 </font>
+
 ***
+
 <font size=4>
 
 </font>
+
 ***
+
 <font size=4>
 
 </font>
+
 ***
+
 <font size=4>
 
 </font>
+
 ***
+
 <font size=4>
 
 </font>
+
 ***
+
 <font size=4>
 
 </font>
+
 ***
+
 <font size=4>
 
 </font>
+
 ***

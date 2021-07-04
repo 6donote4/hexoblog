@@ -7,77 +7,109 @@ categories:
 date: 2017-07-12 22:24
 top: 1007
 ---
-**从QQ空间说说搬运过来的日常感想 **
+ 从QQ空间说说搬运过来的日常感想
 <font size=4>
 翻墙后，可评论博文。
 </font>
 <!--more-->
 
-<audio
-controls="controls" name="media" style='width:264px' autoplay loop=true>
-<source src="/musics/wish.mp3">
-</audio>
+<audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/wish.mp3"> </audio>
 
 
 ***
+
 <font size=4>
 2017-07-12 22:28
 如果网盘没有了，我们还有p2p，也就是分布式技术，这种技术不依赖于某一个公司的服务器，做到了去中心化，避免了单点故障。目前来看，网盘的前景很不妙，有司如果做得太绝，网民便不得不做技术升级。封掉服务器的做法在p2p上可就不会有效了。审查的成本将比现在提升得更多。
 </font>
+
 ***
+
 <font size=4>
 2017-07-12 22:28
 漫游2年意味着所有人的聊天记录在腾讯服务器上的保存期是2年，一般，只要是会员就给你开通同步权限。也就是说2年里面的聊天内容其实是可以让人看到的。
 <img width="600" src="/pictures/post_1007TencentRecord.jpeg">
 </font>
+
 ***
+
 <font size=4>
 2017-07-12 22:31
 好像不是第一次了，血友病好像没过多久吧。从此拒绝使用百度社交平台。。。。。减少使用该引擎的使用频率。。。宁愿多麻烦一些。
 <img width="600" src="/pictures/post_1007BaiduDoEvil.png">
 </font>
+
 ***
+
 <font size=4>
 2017-07-12 22:34
 这些图很珍贵，微博应该是搜不到了
-<img width="600" src="/pictures/post_1007PuTian1.jpeg"> <img width="600" src="/pictures/post_1007PuTian2.jpeg"> ![莆田系](/pictures/post_1007PuTian3.jpeg) ![莆田系](/pictures/post_1007PuTian4.jpeg)
+<img width="600" src="/pictures/post_1007PuTian1.jpeg">
+<img width="600" src="/pictures/post_1007PuTian2.jpeg">
+
+![莆田系](/pictures/post_1007PuTian3.jpeg)
+
+![莆田系](/pictures/post_1007PuTian4.jpeg)
+
 </font>
+
 ***
+
 <font size=4>
 2017-07-12 22:40
 小伙子，快滚回来好好建设社会主义，跑外面瞎撩妹！
+
 ![Society](/pictures/post_1007Society.png)
+
 </font>
+
 ***
+
 <font size=4>
 2017-07-12 22:42
 在我看来，这种统计调查，必须像歌唱比赛那样。去掉极端高的以及极端低的，这样才能体现真正的平均水平，因为这两头都是少数人。然而，我们的专家已经为我们代言了。
+
 ![人均财富](/pictures/post_1007wealth.png)
+
 </font>
+
 ***
+
 <font size=4>
 2017-07-12 22:44
 消费与收入。没有收入让人消费是笑话；有收入不让人消费也不可能。企业所生产的产品，最终必须被消费（必要条件，这是企业立场，消费者就不会这么想了），这样，其收回的成本以及获得的利润才有可能投入新一轮的生产。否则，其经济活动只能终止。
 </font>
+
 ***
+
 <font size=4>
 2017-07-12 22:47
 我想这里面应该没有陈冠希的照片吧？
 真是。。。。。
+
 ![巴拿马文件](/pictures/post_1007PanamaPaper.jpeg)
+
 </font>
+
 ***
+
 <font size=4>
 2017-07-12 22:48
 你要按你所想的去生活; 否则, 你迟早会按你所生活的去想!——佚名
 </font>
+
 ***
+
 <font size=4>
 2017-07-12 22:48
 国内有着14亿人的庞大市场，看起来是个巨大的蛋糕。其实，也必须认真考察一下这个市场的质量。在这个庞大的市场中，其价值应该体现在消费力上，指标是有多少人有充足的消费力，充足的消费力要达到什么样的指标上。最近提倡农民进城购房，农民的消费力应该是可想而知的，这购房估计也只能以按揭形式来进行了。但是，高涨的房价，较低的消费力如何能承受？真的购房，银行最终能收回贷款吗？
 </font>
+
 ***
+
 <font size=4>
 
 </font>
+
 ***
+
