@@ -9,13 +9,13 @@ export PATH
 #Dependencies:rsync
 #Blogs: https://www.donote.tk https://6donote4.github.io
 #=======================================
-#git pull
-#hexo g
+git pull
+hexo g
 #rsync -avz public/ $HOME/mygitrepo/6donote4.github.io
 #rsync -avz public/ /var/www/blog/html
 #rsync -avz public/ $HOME/mygitrepo/temp/6donote4.gitlab.io/public
 rsync -avz public/ $HOME/mygitrepo/donote_blog
-#hexo clean
+hexo clean
 exit 0
 
 
