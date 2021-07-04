@@ -18,8 +18,11 @@ top: 1123
 <audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/lovelovelove.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/qianban.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/wish.mp3"> </audio>
+
 ***
+
 <font size=4>
+
 # 日语语法记忆例句   
 
 ## 一、形式名词  
@@ -68,7 +71,7 @@ top: 1123
 
 おさないときからひとりぼっちのことから、なんのことでもじぶんでやるしゅうかんがつた。  
 幼い時から一人ぼっちの**ことから**、何の事でも自分でやる習慣がつた。  
-因为从小就是一个人，所以养成了无论什么事都自己做的习惯。（原因，理由）  
+**因为**从小就是一个人，所以养成了无论什么事都自己做的习惯。（原因，理由）  
 
 ⒉  もの　 物、人  
 うんめいはつかまえにくいものだ。  
@@ -758,6 +761,7 @@ top: 1123
 ここはせきゆにとんでいるところだ。  
 ここは石油に富んでいるところだ。  
 
-
 </font>
+
+
 ***

@@ -23,13 +23,18 @@ top: 1121
 本博文用于对该部署脚本进行使用上的说明，以及相关操作的动画演示，方便以后，再次部署时，快速完成部署，节省时间。
 
 </font>
+
 <!--more-->
+
 <audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/huimengyouxian.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/lovelovelove.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/qianban.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/wish.mp3"> </audio>
+
 ***
+
 <font size=9>
+
 # 基于Debian 10环境的OpenWrt镜像刷写脚本
 [脚本仓库地址](https://github.com/6donote4/OpenWrt-Debian-Grub)
 
