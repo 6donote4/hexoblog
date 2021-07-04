@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <%- partial('_partials/head') %>
+</head>
+<body
+  <% if (theme.monochrome) { %>
+    class="monochrome"
+  <% } %>
+  >
+  <%- partial('_partials/mobile-header', {}, {cache: true}) %>
+  <div class="main-container">
+    <%- partial('_partials/sidebar', {}, {cache: true}) %>
+    <div class="main-content">
+      <% if (theme.maxContentWidth) { %>
+        <div style="max-width: <%= theme.maxContentWidth %>">
+      <% } %>
+          <%- body %>
+          <%- partial('_partials/footer', {}, {cache: true}) %>
+      <% if (theme.maxContentWidth) { %>
+        </div>
+      <% } %>
+    </div>
+  </div>
+  <%- partial('_partials/scripts', {}, {cache: true}) %>
+  <!-- page click love -->
+  <script type="text/javascript" src="/js/src/love.js"></script>
+  <!-- particles backgrounp -->
+  <script type="text/javascript" src="/js/src/particle.js"></script>
+</body>
+</html>
