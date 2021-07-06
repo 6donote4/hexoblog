@@ -1938,6 +1938,11 @@
     "is-plain-object" "^2.0.1"
     "object.defaults" "^1.1.0"
 
+"eastasianwidth@~0.2.0":
+  "integrity" "sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA=="
+  "resolved" "https://registry.npmjs.org/eastasianwidth/-/eastasianwidth-0.2.0.tgz"
+  "version" "0.2.0"
+
 "easy-extender@^2.3.4":
   "integrity" "sha512-8cAwm6md1YTiPpOvDULYJL4ZS6WfM5/cTeVVh4JsvyYZAoqlRVUpHL9Gr5Fy7HA6xcSZicUia3DeAgO3Us8E+Q=="
   "resolved" "https://registry.npmjs.org/easy-extender/-/easy-extender-2.3.4.tgz"
@@ -2042,6 +2047,11 @@
   "integrity" "sha512-p92if5Nz619I0w+akJrLZH0MX0Pb5DX39XOwQTtXSdQQOaYH03S1uIQp4mhOZtAXrxq4ViO67YTiLBo2638o9A=="
   "resolved" "https://registry.npmjs.org/entities/-/entities-2.2.0.tgz"
   "version" "2.2.0"
+
+"entities@~2.0.0":
+  "integrity" "sha512-MyoZ0jgnLvB2X3Lg5HqpFmn1kybDiIfEQmKzTb5apr51Rb+T3KdmMiqa70T+bhGnyv7bQ6WMj2QMHpGMmlrUYQ=="
+  "resolved" "https://registry.npmjs.org/entities/-/entities-2.0.3.tgz"
+  "version" "2.0.3"
 
 "err-code@^1.0.0":
   "integrity" "sha1-BuARbTAo9q70gGhJ6w6mp0iuaWA="
@@ -3331,13 +3341,23 @@
   dependencies:
     "ejs" "^2.6.1"
 
-"hexo-renderer-marked@^4.0.0":
-  "integrity" "sha512-Rc9tPqCEX+UjKhAHF2AmH4FcIqVSW7FTKH6kAhMWAn/WMxrCD3Al+99zKnnbgaLJ6TOCb1ckvB4BRkwk62ITxQ=="
-  "resolved" "https://registry.npmjs.org/hexo-renderer-marked/-/hexo-renderer-marked-4.0.0.tgz"
-  "version" "4.0.0"
+"hexo-renderer-markdown-it@^5.0.0":
+  "integrity" "sha512-9A4Dpy80hk7+SQ3RGqpWCV1LxnV1gjHSj4N0oGmXIfl/yjy+jMKLRAXIDVonxaD72rg4kzW4ZSqYZBIcgxTAeg=="
+  "resolved" "https://registry.npmjs.org/hexo-renderer-markdown-it/-/hexo-renderer-markdown-it-5.0.0.tgz"
+  "version" "5.0.0"
   dependencies:
     "hexo-util" "^2.1.0"
-    "marked" "^2.0.0"
+    "markdown-it" "^11.0.0"
+    "markdown-it-abbr" "^1.0.4"
+    "markdown-it-cjk-breaks" "^1.1.2"
+    "markdown-it-container" "^3.0.0"
+    "markdown-it-deflist" "^2.0.3"
+    "markdown-it-emoji" "^1.4.0"
+    "markdown-it-footnote" "^3.0.1"
+    "markdown-it-ins" "^3.0.0"
+    "markdown-it-mark" "^3.0.0"
+    "markdown-it-sub" "^1.0.0"
+    "markdown-it-sup" "^1.0.0"
 
 "hexo-renderer-stylus@^2.0.1":
   "integrity" "sha512-1S4AG8RtzWqVrqKIYv2AJ4UYms5SHDjkdYS7IiGwgUejL24agbTktpAbnH2cG1JWZ15SRqYN0UGB9aAoSAgvEA=="
@@ -4370,6 +4390,13 @@
   "resolved" "https://registry.npmjs.org/limiter/-/limiter-1.1.5.tgz"
   "version" "1.1.5"
 
+"linkify-it@^3.0.1":
+  "integrity" "sha512-gDBO4aHNZS6coiZCKVhSNh43F9ioIL4JwRjLZPkoLIY4yZFwg264Y5lu2x6rb1Js42Gh6Yqm2f6L2AJcnkzinQ=="
+  "resolved" "https://registry.npmjs.org/linkify-it/-/linkify-it-3.0.2.tgz"
+  "version" "3.0.2"
+  dependencies:
+    "uc.micro" "^1.0.1"
+
 "live2d-widget-model-hibiki@^1.0.5":
   "integrity" "sha512-MPtmSb0WFRz+gaOAhOyz5xbrpX9wO5utuhqEQwx7rRXIYo/YmQcjLSnMVXWC6tQ7tBQPkAKeQ55RunlnNM3b2A=="
   "resolved" "https://registry.npmjs.org/live2d-widget-model-hibiki/-/live2d-widget-model-hibiki-1.0.5.tgz"
@@ -4680,10 +4707,83 @@
   dependencies:
     "object-visit" "^1.0.0"
 
-"marked@^2.0.0":
-  "integrity" "sha512-/Q+7MGzaETqifOMWYEA7HVMaZb4XbcRfaOzcSsHZEith83KGlvaSG33u0SKu89Mj5h+T8V2hM+8O45Qc5XTgwA=="
-  "resolved" "https://registry.npmjs.org/marked/-/marked-2.1.3.tgz"
-  "version" "2.1.3"
+"markdown-it-abbr@^1.0.4":
+  "integrity" "sha1-1mtTZFIcuz3Yqlna37ovtoZcj9g="
+  "resolved" "https://registry.npmjs.org/markdown-it-abbr/-/markdown-it-abbr-1.0.4.tgz"
+  "version" "1.0.4"
+
+"markdown-it-anchor@^8.1.0":
+  "integrity" "sha512-QgnJbBhoDL8YIxeOnxxjhuMPsnjhHSixs3NuZBW8srNrwHlZUncY0j75bukEQoLRV+YCuwfVSqY4ShFfnzTaDQ=="
+  "resolved" "https://registry.npmjs.org/markdown-it-anchor/-/markdown-it-anchor-8.1.0.tgz"
+  "version" "8.1.0"
+
+"markdown-it-attrs@^4.0.0":
+  "integrity" "sha512-uLjtdCmhhmL3BuZsReYkFxk74qKjj5ahe34teBpOCJ4hYZZl7/ftLyXWLowngC2moRkbLEvKwN/7TMwbhbHE/A=="
+  "resolved" "https://registry.npmjs.org/markdown-it-attrs/-/markdown-it-attrs-4.0.0.tgz"
+  "version" "4.0.0"
+
+"markdown-it-cjk-breaks@^1.1.2":
+  "integrity" "sha512-/gX3LueMp+5FdUkqcFPK5nHI6t85uq1rMv8yhrmCOZhU90XqybQj8OT1hVrxrdseajaHLPBK43xLzEKPosgTDA=="
+  "resolved" "https://registry.npmjs.org/markdown-it-cjk-breaks/-/markdown-it-cjk-breaks-1.1.3.tgz"
+  "version" "1.1.3"
+  dependencies:
+    "eastasianwidth" "~0.2.0"
+
+"markdown-it-container@^3.0.0":
+  "integrity" "sha512-y6oKTq4BB9OQuY/KLfk/O3ysFhB3IMYoIWhGJEidXt1NQFocFK2sA2t0NYZAMyMShAGL6x5OPIbrmXPIqaN9rw=="
+  "resolved" "https://registry.npmjs.org/markdown-it-container/-/markdown-it-container-3.0.0.tgz"
+  "version" "3.0.0"
+
+"markdown-it-deflist@^2.0.3", "markdown-it-deflist@^2.1.0":
+  "integrity" "sha512-3OuqoRUlSxJiuQYu0cWTLHNhhq2xtoSFqsZK8plANg91+RJQU1ziQ6lA2LzmFAEes18uPBsHZpcX6We5l76Nzg=="
+  "resolved" "https://registry.npmjs.org/markdown-it-deflist/-/markdown-it-deflist-2.1.0.tgz"
+  "version" "2.1.0"
+
+"markdown-it-emoji@^1.4.0":
+  "integrity" "sha1-m+4OmpkKljupbfaYDE/dsF37Tcw="
+  "resolved" "https://registry.npmjs.org/markdown-it-emoji/-/markdown-it-emoji-1.4.0.tgz"
+  "version" "1.4.0"
+
+"markdown-it-footnote@^3.0.1", "markdown-it-footnote@^3.0.3":
+  "integrity" "sha512-YZMSuCGVZAjzKMn+xqIco9d1cLGxbELHZ9do/TSYVzraooV8ypsppKNmUJ0fVH5ljkCInQAtFpm8Rb3eXSrt5w=="
+  "resolved" "https://registry.npmjs.org/markdown-it-footnote/-/markdown-it-footnote-3.0.3.tgz"
+  "version" "3.0.3"
+
+"markdown-it-ins@^3.0.0", "markdown-it-ins@^3.0.1":
+  "integrity" "sha512-32SSfZqSzqyAmmQ4SHvhxbFqSzPDqsZgMHDwxqPzp+v+t8RsmqsBZRG+RfRQskJko9PfKC2/oxyOs4Yg/CfiRw=="
+  "resolved" "https://registry.npmjs.org/markdown-it-ins/-/markdown-it-ins-3.0.1.tgz"
+  "version" "3.0.1"
+
+"markdown-it-mark@^3.0.0", "markdown-it-mark@^3.0.1":
+  "integrity" "sha512-HyxjAu6BRsdt6Xcv6TKVQnkz/E70TdGXEFHRYBGLncRE9lBFwDNLVtFojKxjJWgJ+5XxUwLaHXy+2sGBbDn+4A=="
+  "resolved" "https://registry.npmjs.org/markdown-it-mark/-/markdown-it-mark-3.0.1.tgz"
+  "version" "3.0.1"
+
+"markdown-it-sub@^1.0.0":
+  "integrity" "sha1-N1/WAm6ufdywEkl/ZBEZXqHjr+g="
+  "resolved" "https://registry.npmjs.org/markdown-it-sub/-/markdown-it-sub-1.0.0.tgz"
+  "version" "1.0.0"
+
+"markdown-it-sup@^1.0.0":
+  "integrity" "sha1-y5yf+RpSVawI8/09YyhuFd8KH8M="
+  "resolved" "https://registry.npmjs.org/markdown-it-sup/-/markdown-it-sup-1.0.0.tgz"
+  "version" "1.0.0"
+
+"markdown-it-task-list@^0.1.2":
+  "integrity" "sha1-ImzAC/7YLMY1yP7s057sumrMr8w="
+  "resolved" "https://registry.npmjs.org/markdown-it-task-list/-/markdown-it-task-list-0.1.2.tgz"
+  "version" "0.1.2"
+
+"markdown-it@*", "markdown-it@^11.0.0", "markdown-it@>= 9.0.0 < 13.0.0":
+  "integrity" "sha512-aU1TzmBKcWNNYvH9pjq6u92BML+Hz3h5S/QpfTFwiQF852pLT+9qHsrhM9JYipkOXZxGn+sGH8oyJE9FD9WezQ=="
+  "resolved" "https://registry.npmjs.org/markdown-it/-/markdown-it-11.0.1.tgz"
+  "version" "11.0.1"
+  dependencies:
+    "argparse" "^1.0.7"
+    "entities" "~2.0.0"
+    "linkify-it" "^3.0.1"
+    "mdurl" "^1.0.1"
+    "uc.micro" "^1.0.5"
 
 "matchdep@^2.0.0":
   "integrity" "sha1-xvNINKDY28OzfCfui7yyfHd1WC4="
@@ -4699,6 +4799,11 @@
   "integrity" "sha512-dn6wd0uw5GsdswPFfsgMp5NSB0/aDe6fK94YJV/AJDYXL6HVLWBsxeq7js7Ad+mU2K9LAlwpk6kN2D5mwCPVow=="
   "resolved" "https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.14.tgz"
   "version" "2.0.14"
+
+"mdurl@^1.0.1":
+  "integrity" "sha1-/oWy7HWlkDfyrf7BAP1sYBdhFS4="
+  "resolved" "https://registry.npmjs.org/mdurl/-/mdurl-1.0.1.tgz"
+  "version" "1.0.1"
 
 "media-typer@0.3.0":
   "integrity" "sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g="
@@ -7446,6 +7551,11 @@
   "integrity" "sha1-YdTqsCT5CcTm6lK+hnxIlKS+63Y="
   "resolved" "https://registry.npmjs.org/uberproto/-/uberproto-1.2.0.tgz"
   "version" "1.2.0"
+
+"uc.micro@^1.0.1", "uc.micro@^1.0.5":
+  "integrity" "sha512-8Y75pvTYkLJW2hWQHXxoqRgV7qb9B+9vFEtidML+7koHUFapnVJAZ6cKs+Qjz5Aw3aZWHMC6u0wJE3At+nSGwA=="
+  "resolved" "https://registry.npmjs.org/uc.micro/-/uc.micro-1.0.6.tgz"
+  "version" "1.0.6"
 
 "uglify-js@^3.0.5", "uglify-js@^3.13.3":
   "integrity" "sha512-57H3ACYFXeo1IaZ1w02sfA71wI60MGco/IQFjOqK+WtKoprh7Go2/yvd2HPtoJILO2Or84ncLccI4xoHMTSbGg=="
