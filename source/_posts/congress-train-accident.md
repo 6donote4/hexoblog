@@ -12,17 +12,16 @@ top: 1114
 
 <font size=4>
 翻墙后，即可评论博文
-文章来源于CNN网站 : [点击查看原文](https://edition.cnn.com/2018/01/31/politics/congress-train-accident/index.html)
+文章来源于CNN网站 : 
+[点击查看原文](https://edition.cnn.com/2018/01/31/politics/congress-train-accident/index.html)
 可能需要翻墙才能查阅。
 作者:Lauren Fox, Jeremy Diamond,MJ Lee 和Deirdre Walsh
 
 </font>
 <!--more-->
+<audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/wish.mp3"></audio>
 
-<audio
-controls="controls" name="media" style='width:264px' autoplay loop=true>
-<source src="/musics/wish.mp3">
-</audio>
+***
 
 <font size=4>
 （CNN）一辆载有12名国会共和党议员（包括前去参加西维吉尼亚州立法院的会议，白宫发言人Paul Ryan。在周三，这辆列车撞向了一辆卡车，造成至少1人死亡。

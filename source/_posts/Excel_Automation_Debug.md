@@ -15,11 +15,7 @@ top: 1104
 
 </font>
 <!--more-->
-
-<audio
-controls="controls" name="media" style='width:264px' autoplay loop=true>
-<source src="/musics/wish.mp3">
-</audio>
+<audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/wish.mp3"></audio>
 
 ***
 

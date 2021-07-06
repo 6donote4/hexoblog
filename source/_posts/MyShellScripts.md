@@ -9,16 +9,15 @@ top: 1116
 ---
 <font size=4>
 最近,手头上已有三个主机了,并且都配置了frp内网穿透服务以实现远程控制,随着主机的增多,便萌生了编写交互式Shell脚本来更新和登录主机的需求,以及在Linux上进行文件处理的需求。
-登录主机的脚本是建立在内网穿透服务搭建完成之后实现的，这里的脚本并未将搭建过程编写在内，而是另外写了个服务文件，让其主机启动时自动运行，并连接远程主机。frp配置服务见[我的debian-scripts](https://github.com/6donote4/debian-scripts)中的myfrp压缩文件包，可搜索网上资料进行frp服务的搭建。
+登录主机的脚本是建立在内网穿透服务搭建完成之后实现的，这里的脚本并未将搭建过程编写在内，而是另外写了个服务文件，让其主机启动时自动运行，并连接远程主机。frp配置服务见 
+[我的debian-scripts](https://github.com/6donote4/debian-scripts)   
+中的myfrp压缩文件包，可搜索网上资料进行frp服务的搭建。
 </font>
 <!--more-->
-
-<audio
-controls="controls" name="media" style='width:264px' autoplay loop=true>
-<source src="/musics/wish.mp3">
-</audio>
+<audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/wish.mp3"></audio>
 
 ***
+
 <font size=4>
 附一张连接主机脚本的运行效果截图:
 <img width="600" src="/pictures/post_1116_connect_to_host_shot.png" />

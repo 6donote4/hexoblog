@@ -64,6 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+
 theme: chan
 
 # Deployment
@@ -75,13 +76,16 @@ deploy:
 plugin:
     - hexo-generator-feed
 feed:
+  enable: true
   type: atom
   path: atom.xml
   limit: 20
   hub:
   content:
-  content_limit:
+  content_limit: 140
   content_limit_delim: ' '
+  order_by: -date
+  autodiscovery: true
 
 # Live2D
 ## https://github.com/EYHN/hexo-helper-live2d
@@ -97,10 +101,12 @@ live2d:
      use: live2d-widget-model-hibiki
   display:
      position: left
-     width: 150
-     height: 300
+     width: 200
+     height: 400
   mobile:
      show: false
+  react:
+    opacity: 0.8
 # hexo-renderer-markdown-it advance configuration
 # Markdown-it config
 markdown:
@@ -114,7 +120,6 @@ markdown:
     quotes: '“”‘’'
   plugins:
     - markdown-it-abbr
-    - markdown-it-table-of-contents
     - markdown-it-footnote
     - markdown-it-ins
     - markdown-it-sub
@@ -125,11 +130,6 @@ markdown:
     - markdown-it-container
     - markdown-it-emoji
     - markdown-it-attrs
-    - name: markdown-it-task-lists
-      options:
-        enabled: false
-        label: true
-        labelAfter: false
   anchors:
     level: 2
     collisionSuffix: 'v'
@@ -138,3 +138,4 @@ markdown:
     permalinkSymbol: ¶
     case: 0
     separator: '-'
+

@@ -16,19 +16,18 @@ top: 1102
   最近，因工作需要，特意去折腾了一下Excel。基本上，就是实现自己想要的功能.至于熟练的玩转Excel,那还没到这种地步。权且把自己所实现的功能记录下来，供以后参考之用。
 </font>
 <!--more-->
-
-<audio
-controls="controls" name="media" style='width:264px' autoplay loop=true>
-<source src="/musics/wish.mp3">
-</audio>
+<audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/wish.mp3"></audio>
 
 ***
 <font size=4>
 
   先附上三张效果图:
-  ![Excel自动化](/pictures/post_1102Excel_Automation.png)![Excel自动化](/pictures/post_1102Excel_Automation2.png)![Excel自动化](/pictures/post_1102Excel_Automation3.png)
+  [Excel自动化](/pictures/post_1102Excel_Automation.png)
+  [Excel自动化](/pictures/post_1102Excel_Automation2.png)
+  [Excel自动化](/pictures/post_1102Excel_Automation3.png)
   再放出我制作的表单范本(右键另存）:
-  [Example.xlsx](/data/Example.xlsx) [Excel_Example.rar](/data/Excel_Example.rar)
+  [Example.xlsx](/data/Example.xlsx) 
+  [Excel_Example.rar](/data/Excel_Example.rar)
   [VBA_Example.rar](/data/VBA_Example.rar)
 
   先说说我想实现的功能：1.依照固定的格式内容模板，自动建立并格式化一个总表单；2.依照型号列的单元格内容，自动依照分表单模板创建所有对应型号的分表单（人工作业那要做到猴年马月啊，所以要用代码）；3.总表单要链接到分表单，方便跳转到分表录入数据，在修改完分表单之后，总表单在执行程式之后，能够更新剩余数量列项单元格的数据，如果需要更新总数量数据，执行完指定程序之后，总表的剩余数量列项要能够覆盖到总数量列项；4.分表单的型号项、总数量的内容要自动从总表的对应项获取填充，要能返回到总表。

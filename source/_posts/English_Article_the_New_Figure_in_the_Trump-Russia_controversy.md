@@ -12,17 +12,14 @@ top: 1103
 
 <font size=4>
 翻墙后，即可评论博文
-文章来源于CNN网站 : [点击查看原文](http://edition.cnn.com/2017/07/15/politics/who-is-rinat-akhmetshin/index.html)
+文章来源于CNN网站 : 
+[点击查看原文](http://edition.cnn.com/2017/07/15/politics/who-is-rinat-akhmetshin/index.html)
 可能需要翻墙才能查阅。
 作者:Marshall Cohen,Tai Kopan and Adam Chan,CNN
 
 </font>
 <!--more-->
-
-<audio
-controls="controls" name="media" style='width:264px' autoplay loop=true>
-<source src="/musics/wish.mp3">
-</audio>
+<audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/wish.mp3"></audio>
 
 ***
 

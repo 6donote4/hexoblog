@@ -12,17 +12,15 @@ top: 1115
 
 <font size=4>
 翻墙后，即可评论博文
-文章来源于纽约时报网站 : [点击查看原文](https://www.nytimes.com/2018/02/01/business/car-navigation-systems-apps.html?rref=collection%2Fsectioncollection%2Fbusiness&action=click&contentCollection=business&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=sectionfront)
+文章来源于纽约时报网站 : 
+[点击查看原文](https://www.nytimes.com/2018/02/01/business/car-navigation-systems-apps.html?rref=collection%2Fsectioncollection%2Fbusiness&action=click&contentCollection=business&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=sectionfront)
 必需要翻墙才能查阅。
 作者:Eric A. Taub
 
 </font>
 <!--more-->
 
-<audio
-controls="controls" name="media" style='width:264px' autoplay loop=true>
-<source src="/musics/wish.mp3">
-</audio>
+<audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/wish.mp3"></audio>
 
 <font size=4>
 

@@ -7,6 +7,5 @@
     "type": "git",
     "url": "https://github.com/denjones/hexo-theme-chan.git"
   },
-  "devDependencies": {},
-  "dependencies": {}
+  "devDependencies": {}
 }

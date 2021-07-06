@@ -14,10 +14,11 @@ top: 1123
 
 </font>
 <!--more-->
-<audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/huimengyouxian.mp3"> </audio>
-<audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/lovelovelove.mp3"> </audio>
-<audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/qianban.mp3"> </audio>
-<audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/wish.mp3"> </audio>
+
+<audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/huimengyouxian.mp3"></audio>
+<audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/lovelovelove.mp3"></audio>
+<audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/qianban.mp3"></audio>
+<audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/wish.mp3"></audio>
 
 ***
 
