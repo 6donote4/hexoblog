@@ -10,6 +10,7 @@ comments: true
 top: 1119
 ---
 <font size=4>
+
 翻墙后，即可评论博文
 
 本篇博文用于记录LAMP环境及ERP的部署过程。
@@ -17,9 +18,9 @@ top: 1119
 LAMP即Linux，Apache，MySQL，PHP，也就是web服务环境。ERP即enterprise resources planning，也就是企业资源规划系统用于管理，监控企业的各种资源。
 ERP系统不仅适用于企业实体，普通网店，个体经营户也可以使用。仅仅使用模块的多少之区别而已。
 笔者的搭建环境为:Debian 10,使用的是开源的ERP系统[inoERP](https://github.com/inoerp/inoERP)进行部署。
-
 另外，还配置了[Webmin](https://www.webmin.com),用于在Web浏览器上管理服务器，省去了更改配置文件及敲代码的时间。毕竟Mysql语句，笔者懂得并不多。使用Web页面管理数据库比较直观。
 inoERP系统的模块有:仓库管理，销售管理,采购管理，BOM物料账单，成本管理，人力资源管理等。。。。
+
 </font>
 <!--more-->
 <audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/huimengyouxian.mp3"> </audio>

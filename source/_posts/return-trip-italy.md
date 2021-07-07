@@ -9,10 +9,9 @@ date: 2017-10-04 20:36
 top: 1109
 ---
 <font size=4>
+
 翻墙后，即可评论博文
-文章来源于CNN网站 : 
-[点击查看原文](http://edition.cnn.com/travel/article/return-trip-italy/index.html)
-可能需要翻墙才能查阅。
+文章来源于CNN网站 : [点击查看原文](http://edition.cnn.com/travel/article/return-trip-italy/index.html) 可能需要翻墙才能查阅。
 作者:Jeanne Bonner
 
 </font>
@@ -54,7 +53,10 @@ top: 1109
 在旅行的最后一天，我乘火车到米兰赶上了到美国的飞机，但是透过这座城市乡村的观赏财富，我仍然惊奇地发现我徘徊了3个小时。在每一次返程中，我都会在离我的宾馆较远的地方观游。乘着飞机上升，而气流下降。
 为了触发我的怀旧冲动，我启程了并成功了。几年前离开意大利所产生的空虚感却仍然还在。
 这种空虚感只有通过回归才能填补。
+
 ***
 Jeanne Bonner是一位作家且是一个在Connecticut大学教授意大利语的文学翻译家。
+
 </font>
+
 ***

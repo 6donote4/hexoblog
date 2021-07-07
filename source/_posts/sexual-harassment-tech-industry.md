@@ -12,10 +12,9 @@ top: 1111
 ---
 
 <font size=4>
+
 翻墙后，即可评论博文
-文章来源于CNN网站 : 
-[点击查看原文](http://money.cnn.com/2017/10/27/technology/culture/sexual-harassment-tech-industry/index.html)
-可能需要翻墙才能查阅。
+文章来源于CNN网站 : [点击查看原文](http://money.cnn.com/2017/10/27/technology/culture/sexual-harassment-tech-industry/index.html) 可能需要翻墙才能查阅。
 作者:Sara Ashley O'Brien
 
 </font>
@@ -69,7 +68,9 @@ Journy的发起人兼在6月发表演说反对Caldbeck的六个妇女之一的Su
 在八月，国家风险资本联合会举办了一个大约60名参加者(包括Brosseau和帮助Malaysian启动地图生态项目的企业家Cheryl Yeoh)4小时的性骚扰研讨会.Yeoh发表演讲反对投资者Dave McClure（这个人意识到骚扰报道时，从他合伙创办的公司500Startups中辞职。）。McClure登报为他的行为道歉。
 
 之后，很快，国家风险资本联合会为进一步推进，发布了它的框架。这包括了发展中行业的标准人力资源策略和初创企业的最好实践(范例)。
+
 </font>
 
 ***
+
 就翻译到这里。

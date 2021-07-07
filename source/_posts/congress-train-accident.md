@@ -9,12 +9,10 @@ categories:
 date: 2018-02-01 22:47
 top: 1114
 ---
-
 <font size=4>
+
 翻墙后，即可评论博文
-文章来源于CNN网站 : 
-[点击查看原文](https://edition.cnn.com/2018/01/31/politics/congress-train-accident/index.html)
-可能需要翻墙才能查阅。
+文章来源于CNN网站 : [点击查看原文](https://edition.cnn.com/2018/01/31/politics/congress-train-accident/index.html) 可能需要翻墙才能查阅。
 作者:Lauren Fox, Jeremy Diamond,MJ Lee 和Deirdre Walsh
 
 </font>
@@ -52,5 +50,3 @@ Pence发推文称，他正在观察情况并仍然计划在会议上演讲。根
 
 ***
 就翻译到这里。
-<html><body>
-</body></html>

@@ -14,18 +14,23 @@ comments: true
 top: 1118
 ---
 <font size=4>
+
 翻墙后，即可评论博文
 之前一篇博文记录关于虚拟机路由器的搭建过程，使用了KoolShare家的固件进行搭建。由于KoolShare固件并不是开源的，运行这个固件只有二进制代码，非常不透明，我们并不知道这个固件是否会有后门，偷偷的将我们的精神出国工具收集上传到所谓的酷软中心服务器。为了避免这种可能性，选择了开源的适合国内网络环境的LEDE代码仓库，自行编译定制属于自己的软路由固件。本篇博文出于这个目的，来记录软路由固件的编译过程。待重新编译时，可回顾一下这个过程。
 编译过程使用了恩山社区L大的源码包进行编译，在此基础上，汇整了ChinaDNS,Koolproxy源码包，解除ssr-plus插件的解锁代码，纠正一处Makefile错误，使得SSR-plus可以顺利编译。
 因amule和softetherVPN在编译过程中出错，无法解决问题，只能放弃了这两个包。
 因硬件路由性能并不如软路由，而且需要考虑各种架构问题。因此只编译x86_amd64的固件。
+
 </font>
+
 <!--more-->
 <audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/huimengyouxian.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/lovelovelove.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/qianban.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px" loop=false> <source src="/musics/wish.mp3"> </audio> 
+
 ***
+
 <font size=4>
 
 1. 搭建编译环境
@@ -44,6 +49,7 @@ sudo apt-get -y install build-essential asciidoc binutils bzip2 gawk gettext git
 现记录proxychains配置的网络环境。
   - 宿主机使用v2ray，shadowsocks , shadowsocksr 等，使用自行搭建的远程服务器或者其他机场账号建立代理。
   - ``echo "http 192.168.10.1 3120" >> /etc/proxychains.conf `` ,192.168.10.1为宿主机在虚拟机网络中的IP地址，可自行设置任意ip,设置proxychains的配置文件。
+
 3. 编译流程
   - 获取源码
   ```sh
@@ -108,5 +114,7 @@ vi /etc/config/network
 <img width="600" src="/pictures/OpenWRT_Compilation/Screenshot_20190525-201121_YouTube.jpg">
 <img width="600" src="/pictures/OpenWRT_Compilation/Screenshot_20190525-201144_YouTube.jpg">
 [点击此处获取固件](https://github.com/6donote4/kvmLeanWRT/releases)
+
  </font>
+
  ***     

@@ -9,12 +9,10 @@ categories:
 date: 2018-02-04 22:47
 top: 1115
 ---
-
 <font size=4>
+
 翻墙后，即可评论博文
-文章来源于纽约时报网站 : 
-[点击查看原文](https://www.nytimes.com/2018/02/01/business/car-navigation-systems-apps.html?rref=collection%2Fsectioncollection%2Fbusiness&action=click&contentCollection=business&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=sectionfront)
-必需要翻墙才能查阅。
+文章来源于纽约时报网站 : [点击查看原文](https://www.nytimes.com/2018/02/01/business/car-navigation-systems-apps.html?rref=collection%2Fsectioncollection%2Fbusiness&action=click&contentCollection=business&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=sectionfront) ,必须要翻墙才能查阅。
 作者:Eric A. Taub
 
 </font>
@@ -77,6 +75,7 @@ HERE正在以被动的方式收集来自世界各地的50万辆道路原始数�
 随着自动驾驶汽车的发展，信息的筛选变得更加重要，使汽车能从其他交通工具上了解道路状况并远离事故，上班高峰期，凹坑及大量人流等状况来安全地导航。
 
 “当前，我们的内置导航系统与智能手机App相比，仍处劣势，”Bulter说。“但是很快，我们将会取得优势。”
+
 </font>
 
 ***

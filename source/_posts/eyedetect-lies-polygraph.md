@@ -10,11 +10,11 @@ date: 2017-10-05 13:56
 top: 1110
 ---
 <font size=4>
+
 翻墙后，即可评论博文
-文章来源于CNN网站 :
-[点击查看原文](http://money.cnn.com/2017/10/04/technology/business/eyedetect-lies-polygraph/index.html)
-可能需要翻墙才能查阅。
+文章来源于CNN网站 :[点击查看原文](http://money.cnn.com/2017/10/04/technology/business/eyedetect-lies-polygraph/index.html) 可能需要翻墙才能查阅。
 作者:Matt McFarland
+
 </font>
 <!--more-->
 <audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/wish.mp3"></audio>
@@ -42,6 +42,7 @@ Raskin和其他Utah教授－一群进行测谎研究的调查者，这群调查�
 Ken Roberts一个在新墨西哥州，Las Cruces的Dona Ana郡司法机关的副法官在任命前前(想起了中国的司法，并不需要这样的程序，只需要服从领导就够了。司法独不独立，公不公正，在这里就可以体现。)已经从测谎仪检测转换到了眼球侦测检测。
 眼球测试的方案是在对话测试下发展的，所以主题能够对应问题。
 “许多测谎行业感受到了威胁与保守（保护他们现存的测试方法）。他们认为这种方法将会取代他们的方案。”Raskin说道。“也有人认为，可能将来这会发生。但不是现在，它现在还不是威胁。”
+
 </font>
 ***
 

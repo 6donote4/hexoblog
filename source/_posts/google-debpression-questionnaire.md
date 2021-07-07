@@ -11,17 +11,18 @@ top: 1107
 ---
 
 <font size=4>
+
 翻墙后，即可评论博文
-文章来源于CNN网站 : 
-[点击查看原文](http://money.cnn.com/2017/08/24/technology/google-depression-questionnaire/index.html)
-可能需要翻墙才能查阅。
+文章来源于CNN网站 :  [点击查看原文](http://money.cnn.com/2017/08/24/technology/google-depression-questionnaire/index.html) 可能需要翻墙才能查阅。
 作者:Alanna Petroff
 
 </font>
 <!--more-->
 <audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/wish.mp3"></audio>
 <font size=4>
+
 ***
+
 <b>谷歌搜索引擎已设计出的新特性可帮助人们免受抑郁症折磨。</b>
 
 现在，在美国的谷歌用户搜索“抑郁症”或者“临床抑郁症”，将会得到一份检查他们抑郁程度的问卷调查
@@ -53,4 +54,5 @@ Giliberti解释道。
 
 </font>
 ***
+
 就翻译到这里。

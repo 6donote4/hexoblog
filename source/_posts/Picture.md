@@ -9,12 +9,19 @@ top: 4
 该博文用于嵌入图片
 <!--more-->
 <font size=4>
+
 翻墙后，即可评论博文。
+
 </font>
+
+***
+
 <audio controls="controls" name="media" style="width:264px"  autoplay loop=true> <source src="/musics/huimengyouxian.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px"  autoplay loop=false> <source src="/musics/lovelovelove.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px"  autoplay loop=false> <source src="/musics/qianban.mp3"> </audio>
 <audio controls="controls" name="media" style="width:264px"  autoplay loop=false> <source src="/musics/wish.mp3"> </audio>
+
+***
 
 <img width="600" src="/pictures/POST_1117_OpenWRT1.png">
 <img width="600" src="/pictures/POST_1117_OpenWRT2.png">

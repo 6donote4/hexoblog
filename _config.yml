@@ -32,7 +32,7 @@ new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: 
-  enable:true # Open external links in new tab
+  enable: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -101,12 +101,12 @@ live2d:
      use: live2d-widget-model-hibiki
   display:
      position: left
-     width: 200
-     height: 400
+     width: 180
+     height: 456
   mobile:
      show: false
   react:
-    opacity: 0.8
+    opacity: 0.75
 # hexo-renderer-markdown-it advance configuration
 # Markdown-it config
 markdown:

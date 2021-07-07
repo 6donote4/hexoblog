@@ -22,9 +22,9 @@ top: 1102
 <font size=4>
 
   先附上三张效果图:
-  [Excel自动化](/pictures/post_1102Excel_Automation.png)
-  [Excel自动化](/pictures/post_1102Excel_Automation2.png)
-  [Excel自动化](/pictures/post_1102Excel_Automation3.png)
+  ![Excel自动化](/pictures/post_1102Excel_Automation.png)
+  ![Excel自动化](/pictures/post_1102Excel_Automation2.png)
+  ![Excel自动化](/pictures/post_1102Excel_Automation3.png)
   再放出我制作的表单范本(右键另存）:
   [Example.xlsx](/data/Example.xlsx) 
   [Excel_Example.rar](/data/Excel_Example.rar)

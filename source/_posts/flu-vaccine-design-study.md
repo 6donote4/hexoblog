@@ -10,18 +10,15 @@ top: 1112
 ---
 
 <font size=4>
+
 翻墙后，即可评论博文
-文章来源于CNN网站 : [点击查看原文](https://edition.cnn.com/2018/01/18/health/flu-vaccine-design-study/index.html)
-可能需要翻墙才能查阅。
+文章来源于CNN网站 : [点击查看原文](https://edition.cnn.com/2018/01/18/health/flu-vaccine-design-study/index.html) 可能需要翻墙才能查阅。
 作者:Jacqueline Howard
 
 </font>
 <!--more-->
 
-<audio
-controls="controls" name="media" style='width:264px' autoplay loop=true>
-<source src="/musics/wish.mp3">
-</audio>
+<audio controls="controls" name="media" style='width:264px' autoplay loop=true><source src="/musics/wish.mp3"></audio>
 
 <font size=4>
 照片:显微镜下的流感病菌(图片进入CNN网站查看)
@@ -80,7 +77,9 @@ CNN-随着致命的流感季节继续肆虐美国，科学家们争取找到新�
 
 
 [原文后面的内容是关于世界各国对流感疫苗调查研究的进展，这一节就不翻译了。]
+
 </font>
 
 ***
+
 就翻译到这里。

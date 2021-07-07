@@ -10,10 +10,10 @@ top: 1113
 ---
 
 <font size=4>
+
 翻墙后，即可评论博文
 文章来源于CNN网站 : 
-[点击查看原文](http://money.cnn.com/2018/01/30/technology/nuro-self-driving-delivery/index.html)
-可能需要翻墙才能查阅。
+[点击查看原文](http://money.cnn.com/2018/01/30/technology/nuro-self-driving-delivery/index.html) 可能需要翻墙才能查阅。
 作者:Matt McFarland
 
 </font>
@@ -40,6 +40,7 @@ Nuro公司的汽车可能会面对法律困境。现在，在加利福尼亚，�
 尽管对自动化有着普遍忧虑，即工作的替代，但是Ferguson认为Nuro的角色并不会对应聘产生负面影响。
 
 “凭借这项将会激发新物流的技术，我们感到，我们创造出新的市场，并且做从前不可能做的事，”Ferguson说道。这并不会是用机器人来完成的工作。它正在创造新市场。显然，将会有新的工作机会。”
+
 </font>
 
 ***

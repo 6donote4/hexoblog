@@ -8,10 +8,9 @@ date: 2017-10-01 22:26
 top: 1108
 ---
 <font size=4>
+
 翻墙后，即可评论博文
-文章来源于CNN网站 : 
-[点击查看原文](http://edition.cnn.com/travel/article/taiwan-whisky-kavalan/index.html)
-可能需要翻墙才能查阅。
+文章来源于CNN网站 :  [点击查看原文](http://edition.cnn.com/travel/article/taiwan-whisky-kavalan/index.html) 可能需要翻墙才能查阅。
 作者:Marian Liu
 
 </font>
@@ -54,4 +53,5 @@ Kavalan深深植根于台湾，早期的酒瓶形状就像台湾的最高建筑�
 “我想要做一些新的东西，如果我们都遵从我也一样的模式，那就没有意义了。”李说道。
 Kavalan举办了一场免费的日常酒厂观览。更多信息，请到www.kavalanwhisky.com。
 </font>
+
 ***
