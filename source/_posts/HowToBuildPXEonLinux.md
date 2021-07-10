@@ -1,5 +1,6 @@
 ---
 title: 基于Linux搭建PXE网络引导环境之脚本编写与使用说明
+toc: false
 tags: 
   - Linux
   - PXE

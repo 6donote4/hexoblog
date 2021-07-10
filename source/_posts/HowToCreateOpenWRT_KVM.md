@@ -1,5 +1,6 @@
 ---
 title: 「原创」OpenWRT路由系统虚拟机搭建记录
+toc: false
 tags:  
   - OpenWRT 
   - KOOLSHARE 

@@ -1,5 +1,6 @@
 ---
 title: 「原创」Linux Shell 简易脚本编写之记录
+toc: false
 tags:
 - LinuxShellScript SQL数据库
 categories:                                                                
