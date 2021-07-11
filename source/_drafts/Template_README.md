@@ -1,5 +1,6 @@
 ---
 title:空格「译文」sample
+toc: false
 tags:空格
   - Sample
   - Sample1
