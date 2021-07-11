@@ -1,10 +1,10 @@
 ---
-title:空格「译文」sample
+title: 空格「译文」sample
 toc: false
-tags:空格
+tags: 空格
   - Sample
   - Sample1
-categories:空格
+categories: 空格
   - "外文翻译"
 date:2017-08-27 16:26
 top:1120
