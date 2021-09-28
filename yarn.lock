@@ -3957,9 +3957,9 @@ markdown-it-anchor@^8.1.0:
   version "8.1.0"
   resolved "https://registry.npmjs.org/markdown-it-anchor/-/markdown-it-anchor-8.1.0.tgz"
 
-markdown-it-attrs@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/markdown-it-attrs/-/markdown-it-attrs-4.0.0.tgz"
+markdown-it-attrs@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/markdown-it-attrs/-/markdown-it-attrs-4.1.0.tgz#e27f023cd8731b15b4a5e971d51e6f45b3b947bc"
 
 markdown-it-cjk-breaks@^1.1.2:
   version "1.1.3"
