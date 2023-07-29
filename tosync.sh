@@ -11,7 +11,7 @@ export PATH
 #=======================================
 git pull
 hexo g
-#rsync -avz public/ $HOME/mygitrepo/6donote4.github.io
+rsync -avz public/ $HOME/mygitrepo/6donote4.github.io
 rsync -avz public/ /var/www/blog/html
 #rsync -avz public/ $HOME/mygitrepo/temp/6donote4.gitlab.io/public
 #rsync -avz public/ $HOME/mygitrepo/donote_blog
